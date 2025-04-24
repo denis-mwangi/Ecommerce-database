@@ -11,7 +11,7 @@ Your group will design an Entity-Relationship Diagram (ERD) and collaboratively 
    - Understand and document the relationships between tables.  
    - Identify primary keys, foreign keys, and other constraints.  
    - Use tools like Lucidchart, draw.io, dbdiagram.io, or MySQL Workbench 🛠️
-   [ER diagram](ecommerce.sql.png)
+   [ER diagram](/ecommerce.sql.png)
 
 2. **Plan the Data Flow** 🔄  
    - Map out how data flows between entities.  
